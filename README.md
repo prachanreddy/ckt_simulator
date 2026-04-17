@@ -10,20 +10,22 @@ A Python-based symbolic circuit analysis tool that models electrical networks us
 * Unit parsing (k, m, u, etc.)
 
 
-How to Run
+# How to Run
 
 
 pip install -r requirements.txt<br>
 python cktsim.py
 
-Example netlist<br>
+# Example netlist
+
+
 AC1 1 0 10<br>
 R1 1 2 10<br>
 L1 2 3 25m<br>
 C1 3 0 100u
 
 
-Output
+# Outputs
 
 * Branch currents I(s)
 * Branch voltages V(s)
