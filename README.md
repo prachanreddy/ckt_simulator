@@ -1,4 +1,4 @@
-Circuit Simulator (Graph Based)
+# Graph-Based Circuit Simulator (Symbolic Analysis)
 
 A Python-based symbolic circuit analysis tool that models electrical networks using graph theory and computes branch currents and voltages in the Laplace domain.
 
