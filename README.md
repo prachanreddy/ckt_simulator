@@ -16,7 +16,7 @@ How to Run
 pip install -r requirements.txt<br>
 python cktsim.py
 
-Example netlist
+Example netlist<br>
 AC1 1 0 10<br>
 R1 1 2 10<br>
 L1 2 3 25m<br>
